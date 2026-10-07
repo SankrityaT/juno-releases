@@ -1,15 +1,15 @@
 {
-  "currentRelease": "0.1.0",
+  "currentRelease": "0.1.1",
   "releases": [
     {
-      "version": "0.1.0",
+      "version": "0.1.1",
       "updateTo": {
-        "version": "0.1.0",
-        "url": "https://github.com/SankrityaT/juno-releases/releases/download/v0.1.0/Juno-0.1.0-mac.zip",
-        "name": "Juno 0.1.0",
-        "pub_date": "2026-10-07T00:06:55.527Z",
-        "sha256": "29ebfe60ef764e2045ec6f8c475c926a25714d49c59d7be8b300119b6cd32d4b",
-        "size": 582458591
+        "version": "0.1.1",
+        "url": "https://github.com/SankrityaT/juno-releases/releases/download/v0.1.1/Juno-0.1.1-mac.zip",
+        "name": "Juno 0.1.1",
+        "pub_date": "2026-10-07T07:38:34.419Z",
+        "sha256": "cdd7650752ce0d56d42d927541d3da829fd2c99df35dcc80316dfd1d2704713e",
+        "size": 582505256
       }
     }
   ]
