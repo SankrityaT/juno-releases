@@ -1,0 +1,16 @@
+{
+  "currentRelease": "0.1.0",
+  "releases": [
+    {
+      "version": "0.1.0",
+      "updateTo": {
+        "version": "0.1.0",
+        "url": "https://github.com/SankrityaT/juno-releases/releases/download/v0.1.0/Juno-0.1.0-mac.zip",
+        "name": "Juno 0.1.0",
+        "pub_date": "2026-10-07T00:06:55.527Z",
+        "sha256": "29ebfe60ef764e2045ec6f8c475c926a25714d49c59d7be8b300119b6cd32d4b",
+        "size": 582458591
+      }
+    }
+  ]
+}
