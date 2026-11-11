@@ -25,6 +25,14 @@
         "rollout": 100,
         "at": "2026-11-11T07:42:06.250Z",
         "by": "release"
+      },
+      {
+        "version": "0.1.11",
+        "build": 1011,
+        "rollout": 100,
+        "critical": "A security fix for Juno's browser: a Chrome bug is being exploited right now, and this update fixes it.",
+        "at": "2026-11-11T07:51:03.690Z",
+        "by": "critical"
       }
     ],
     "update-feed-beta.json": [
