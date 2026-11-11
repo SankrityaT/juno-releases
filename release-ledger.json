@@ -1,0 +1,14 @@
+{
+  "v": 1,
+  "builds": [
+    {
+      "version": "0.1.11",
+      "build": 1011,
+      "channel": "stable",
+      "commit": "9768e62b084e",
+      "chromium": "157.0.8103.50",
+      "date": "2026-11-11T07:41:37.647Z"
+    }
+  ],
+  "feeds": {}
+}
