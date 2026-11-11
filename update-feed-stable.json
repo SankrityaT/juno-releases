@@ -25,5 +25,8 @@
     "channel": "stable",
     "chromium": "157.0.8103.50"
   },
-  "rollout": 100
+  "rollout": 100,
+  "critical": {
+    "reason": "A security fix for Juno's browser: a Chrome bug is being exploited right now, and this update fixes it."
+  }
 }
