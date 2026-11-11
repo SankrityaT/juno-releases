@@ -18,6 +18,13 @@
         "rollout": 100,
         "at": "2026-11-11T07:41:40.431Z",
         "by": "release"
+      },
+      {
+        "version": "0.1.11",
+        "build": 1011,
+        "rollout": 100,
+        "at": "2026-11-11T07:42:06.250Z",
+        "by": "release"
       }
     ],
     "update-feed-beta.json": [
@@ -42,6 +49,11 @@
       {
         "version": "0.1.11",
         "at": "2026-11-11T07:41:40.431Z",
+        "by": "release"
+      },
+      {
+        "version": "0.1.11",
+        "at": "2026-11-11T07:42:06.250Z",
         "by": "release"
       }
     ]
