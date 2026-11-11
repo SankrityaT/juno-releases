@@ -10,5 +10,40 @@
       "date": "2026-11-11T07:41:37.647Z"
     }
   ],
-  "feeds": {}
+  "feeds": {
+    "update-feed-stable.json": [
+      {
+        "version": "0.1.11",
+        "build": 1011,
+        "rollout": 100,
+        "at": "2026-11-11T07:41:40.431Z",
+        "by": "release"
+      }
+    ],
+    "update-feed-beta.json": [
+      {
+        "version": "0.1.11",
+        "build": 1011,
+        "rollout": 100,
+        "at": "2026-11-11T07:41:40.431Z",
+        "by": "release"
+      }
+    ],
+    "update-feed-internal.json": [
+      {
+        "version": "0.1.11",
+        "build": 1011,
+        "rollout": 100,
+        "at": "2026-11-11T07:41:40.431Z",
+        "by": "release"
+      }
+    ],
+    "update-feed.json": [
+      {
+        "version": "0.1.11",
+        "at": "2026-11-11T07:41:40.431Z",
+        "by": "release"
+      }
+    ]
+  }
 }
