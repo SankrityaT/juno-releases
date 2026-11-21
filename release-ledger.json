@@ -50,6 +50,13 @@
         "rollout": 100,
         "at": "2026-11-11T07:41:40.431Z",
         "by": "release"
+      },
+      {
+        "version": "0.1.12-beta.1",
+        "build": 1012,
+        "rollout": 100,
+        "at": "2026-11-21T10:34:25.024Z",
+        "by": "release"
       }
     ],
     "update-feed-internal.json": [
@@ -58,6 +65,13 @@
         "build": 1011,
         "rollout": 100,
         "at": "2026-11-11T07:41:40.431Z",
+        "by": "release"
+      },
+      {
+        "version": "0.1.12-beta.1",
+        "build": 1012,
+        "rollout": 100,
+        "at": "2026-11-21T10:34:25.024Z",
         "by": "release"
       }
     ],
