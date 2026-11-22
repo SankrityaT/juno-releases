@@ -16,6 +16,14 @@
       "commit": "6e3a01d1693c",
       "chromium": "157.0.8103.50",
       "date": "2026-11-21T10:34:21.095Z"
+    },
+    {
+      "version": "0.1.12-beta.2",
+      "build": 1013,
+      "channel": "beta",
+      "commit": "35c37e7145b4",
+      "chromium": "157.0.8103.50",
+      "date": "2026-11-22T02:25:38.255Z"
     }
   ],
   "feeds": {
